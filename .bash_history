@@ -545,3 +545,4 @@ mkdir another_day_of_the_year
 touch README.md
 echo "Every repo should have a README" > README.md
 git init
+git add . && git commit -m "Initialize git"
